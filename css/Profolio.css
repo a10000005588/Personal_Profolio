@@ -191,7 +191,11 @@ hr.style-two {
 	height:900px;
 /*	background-color:#75FF7F;*/
 	
+<<<<<<< HEAD
 	color:#F1F1F1;
+=======
+	color:#141414;
+>>>>>>> gh-pages
 
     background-image: url(./images/1.png);
     background-repeat: no-repeat;
@@ -322,6 +326,10 @@ hr.style-two {
 	width: 300px;
 	height:200px;
 
+<<<<<<< HEAD
+=======
+    line-height: 150px;
+>>>>>>> gh-pages
 }
 
 .profolio .profolio_works .work2{
@@ -337,7 +345,11 @@ hr.style-two {
 	padding:50px auto;
 	width: 300px;
 	height:200px;
+<<<<<<< HEAD
 
+=======
+    line-height: 150px;
+>>>>>>> gh-pages
 }
 
 .profolio .profolio_works .work1:hover{
@@ -404,4 +416,22 @@ hr.style-two {
 
 	text-align: center;
 }
+<<<<<<< HEAD
+=======
+
+.loading{
+	z-index: 100;
+    padding: 10px 10px 5px;
+    background: #AC9797;
+    left: 40%;
+    top: 50%;
+    color: #fff;
+    position: fixed;
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    box-shadow: 2px 2px 10px;
+    border-radius: 5px;
+}
+>>>>>>> gh-pages
 </style>

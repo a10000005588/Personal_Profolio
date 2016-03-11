@@ -5,9 +5,23 @@ $(document).ready(function() {
     $("#RandomQuote").click(function(){
     	document.location.href="./RandomQuote/random.html";
     });
+<<<<<<< HEAD
 });
 
 
+=======
+
+    $("#Cal").click(function(){
+    	document.location.href="./Calculator/calculator.html";
+    });
+});
+
+
+$(window).load(function(){
+    $('#loading').hide(1000);
+});
+
+>>>>>>> gh-pages
 var d = {
 	a:123,
 	b:"test"

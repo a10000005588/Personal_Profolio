@@ -1,0 +1,349 @@
+.main{
+	position: fixed;
+	background-color: #F59A0F;
+	margin:10px;
+	padding:10px;
+	left:35%;
+	top:10%;
+	width: 30%;
+	height:70%;
+	border-radius: 20px;
+}
+
+.main .main_title{
+	position: relative;
+	/*background-color: #F1B6B6;*/
+	margin: 2%;
+	padding:1px;
+	width:95%;
+	height:10%;
+
+	text-align: center;
+	line-height: 50px;
+}
+
+.main .main_output{
+	position: relative;
+	background-color: #ADC2BF;
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:7%;
+}
+
+.main .main_buttons{
+    position: relative;
+ /*   background-color: #72F27D;*/
+    margin: 3%;
+    padding:1px;
+    width:95%;
+    height:75%;
+}
+
+.main .main_buttons .row1{
+	position:relative;
+	/*background-color: #1B1818;*/
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:17%;
+}
+
+.main .main_buttons .row1 .col1{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row1 .col2{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row1 .col3{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row1 .col4{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:22%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+
+.main .main_buttons .row2{
+	position:relative;
+/*	background-color: #1B1818;*/
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:17%;
+	
+}
+
+.main .main_buttons .row2 .col1{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row2 .col2{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row2 .col3{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row2 .col4{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:22%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+.main .main_buttons .row3{
+	position:relative;
+/*	background-color: #1B1818;*/
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:17%;
+
+}
+
+
+.main .main_buttons .row3 .col1{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row3 .col2{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row3 .col3{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row3 .col4{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:22%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+.main .main_buttons .row4{
+	position:relative;
+/*	background-color: #1B1818;*/
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:17%;
+}
+
+
+.main .main_buttons .row4 .col1{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row4 .col2{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row4 .col3{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row4 .col4{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:22%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+.main .main_buttons .row5{
+	position:relative;
+/*	background-color: #1B1818;*/
+	margin:2%;
+	padding:1px;
+	width:95%;
+	height:17%;
+}
+
+
+.main .main_buttons .row5 .col1{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row5 .col2{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row5 .col3{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:24%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
+
+.main .main_buttons .row5 .col4{
+	position: :relative;
+	background-color: white;
+	margin:1px;
+	padding: 1px;
+	width:22%;
+	height:95%;
+
+	float: left;
+	text-align: center;
+	line-height: 55px;
+}
