@@ -5,6 +5,10 @@ $(document).ready(function() {
     $("#RandomQuote").click(function(){
     	document.location.href="./RandomQuote/random.html";
     });
+
+    $("#Cal").click(function(){
+    	document.location.href="./Calculator/calculator.html";
+    });
 });
 
 
