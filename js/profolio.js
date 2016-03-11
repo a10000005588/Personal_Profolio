@@ -8,6 +8,10 @@ $(document).ready(function() {
 });
 
 
+$(window).load(function(){
+    $('#loading').hide(1000);
+});
+
 var d = {
 	a:123,
 	b:"test"
