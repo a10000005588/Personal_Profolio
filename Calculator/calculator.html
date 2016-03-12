@@ -3,7 +3,9 @@
 <head>
 	<title></title>
 <link rel="stylesheet" type="text/css" href="css/cal.css">
+<script src="js/jquery-1.12.1.min.js"></script>
 <script src="js/cal.js"></script>
+
 <style type="text/css">
 
 html,body{
@@ -21,81 +23,81 @@ html,body{
             <span>Simple Small Calculator</span>
         </div>
 
-        <div class="main_output">
+        <div class="main_output" id="textbox">
         </div>
 
         <div class="main_buttons">
             <div class="row1">
-                 <div class="col1">
+                 <div id="AC" class="col1">
                  	<span>AC</span>
                  </div>
-                 <div class="col2">
+                 <div id="CE" class="col2">
                  	<span>CE</span>
                  </div>
-                 <div class="col3">
+                 <div id="par" class="col3">
                     <span>%</span>
                  </div>
-                 <div class="col4">
+                 <div id="div" class="col4">
                     <span>/</span>
                  </div>
             </div>
 
             <div class="row2">
-                 <div class="col1">
+                 <div id="7" class="col1">
                  	<span>7</span>
                  </div>
-                 <div class="col2">
+                 <div id="8" class="col2">
                     <span>8</span>
                  </div>
-                 <div class="col3">
+                 <div id="9" class="col3">
                  	<span>9</span>
                  </div>
-                 <div class="col4">
+                 <div id="mul" class="col4">
                     <span>*</span>
                  </div>
             </div>
 
             <div class="row3">
-                 <div class="col1">
+                 <div id="4" class="col1">
                     <span>4</span>
                  </div>
-                 <div class="col2">
+                 <div id="5" class="col2">
                     <span>5</span>
                  </div>
-                 <div class="col3">
+                 <div id="6" class="col3">
                  	<span>6</span>
                  </div>
-                 <div class="col4">
+                 <div id="del" class="col4">
                     <span>-</span>
                  </div>
             </div>
 
             <div class="row4">
-                 <div class="col1">
+                 <div id="1" class="col1">
                      <span>1</span>
                  </div>
-                 <div class="col2">
+                 <div id="2" class="col2">
                  	 <span>2</span>
                  </div>
-                 <div class="col3">
+                 <div id="3" class="col3">
                      <span>3</span>
                  </div>
-                 <div class="col4">
+                 <div id="add" class="col4">
                  	 <span>+</span>
                  </div>
             </div>
 
             <div class="row5">
-                 <div class="col1">
-
+                 <div id="dot" class="col1">
+				    <span>.</span>
                  </div>
-                 <div class="col2">
+                 <div id="0" class="col2">
                  	<span>0</span>
                  </div>
-                 <div class="col3">
+                 <div id="ans" class="col3">
                  	<span>Ans</span>
                  </div>
-                 <div class="col4">
+                 <div id="equal" class="col4">
                     <span>=</span>
                  </div>
             </div>
